@@ -16,14 +16,3 @@ https://github.com/hackerstolz/smart-country-hacks-challenges/blob/master/cities
 * Tableau
 * Python (Pandas, Matplotlib, Numpy)
 
-Chatbox:
-
-
-
-
-
-Data visualisations:
-
-
-
-
