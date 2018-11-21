@@ -1,4 +1,4 @@
-#Bruno - the Chatbot 
+### Bruno - the Chatbot 
 
 This is a hackathon Smart Country project 
 
@@ -10,7 +10,7 @@ Used api can be found at :
 https://github.com/hackerstolz/smart-country-hacks-challenges/blob/master/cities/itdz-berlin/api_dokumentation.md
 ```
 
-###Tools used for chat bot are
+### Tools used for Chatbot 
 * Botsociety.io
 * Snatchbot.me
 * Tableau
